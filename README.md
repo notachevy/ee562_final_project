@@ -9,9 +9,13 @@ Google Slides presentation: https://docs.google.com/presentation/d/1mT7VDwvoCCWf
 
 ViT: 
 https://huggingface.co/timm/vit_small_patch16_224.augreg_in21k
+
 https://github.com/huggingface/pytorch-image-models/tree/main/timm/models
+
 https://github.com/huggingface/pytorch-image-models/blob/main/timm/models/vision_transformer.py
 
 CLIP:
 https://huggingface.co/openai/clip-vit-base-patch32
+
 https://github.com/openai/CLIP/blob/main/model-card.md
+
