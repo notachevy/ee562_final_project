@@ -19,3 +19,4 @@ https://huggingface.co/openai/clip-vit-base-patch32
 
 https://github.com/openai/CLIP/blob/main/model-card.md
 
+food-101: https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
